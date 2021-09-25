@@ -18,7 +18,7 @@ It gets its name from the idea of inserting data into the output stream.
 
 ### Syntax :
 
-cout <<"Message to print'' or result to be show
+cout <<"Message to print" or result to be shown
 
 Eg : cout << "Welcome to c++ ";
 OUTPUT : Welcome to C++
